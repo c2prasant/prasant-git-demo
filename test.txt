@@ -4,3 +4,5 @@ this is my new file
 This is my first file.
 
 this is my 2nd line
+
+this is my 3rd line
